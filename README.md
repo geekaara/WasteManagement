@@ -43,3 +43,11 @@ For the facts and information :
 The Recycling Industry is losing money 
 Think Twice about your trash 
 
+
+# Flutter 
+1. Install flutter 
+2. Go the bin directory 
+3. Execute script ./flutter 
+4. run flutter doctor 
+5. Flutter run which will run the application in real device if your phone 
+   is connected to laptop otherwise it will open on emulator.
